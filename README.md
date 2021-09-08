@@ -1,2 +1,2 @@
-# renuka.github.io
+# My Profile Page
 I am a hardworking undergraduate pursuing my Bachelors from Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya with the specialization in Information Technology and overall CGPA of 8.61. I have studied these technologies in depth - C++, Java, Javascript, HTML, CSS, and PostgreSQL. I have done web development internship at Brand Beavers, Mumbai, Maharashtra. I am currently learning Advanced Java.
